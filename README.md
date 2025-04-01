@@ -62,5 +62,3 @@ The LSTM model achieves **95.04% accuracy** in predicting HUL stock trends, demo
 2. Install the required libraries using `pip install -r requirements.txt`.
 3. Run the Jupyter notebook `055003_LSTM_Stock_Price_Prediction_HUL.ipynb` to execute the project.
 
-## License
-This project is open-source and available under the MIT License.
